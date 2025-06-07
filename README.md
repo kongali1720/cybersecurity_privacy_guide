@@ -1,31 +1,50 @@
-# 🔒 Cybersecurity & Privacy Guide
+<h1 align="center">🔒 Cybersecurity & Privacy Guide</h1>
 
-![Awesome](https://img.shields.io/badge/status-awesome-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Last Update](https://img.shields.io/badge/last_update-2025--06--07-orange)
+<p align="center">
+  <img src="https://img.shields.io/badge/status-awesome-brightgreen" alt="Awesome" />
+  <img src="https://img.shields.io/badge/license-MIT-blue" alt="License" />
+  <img src="https://img.shields.io/badge/last_update-2025--06--07-orange" alt="Last Update" />
+</p>
 
-<p align="center"> Made with 💻 + ☕ by <b>Kongali1720</b> </p>
+<p align="center">
+  Made with 💻 + ☕ by <b>Kongali1720</b>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xka3UyNXNzY25zeDdia3E4dzk5dnVxcm1mOG83NDJvYmd0MmgwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif" alt="Cybersecurity Gif" width="300"/>
 </p>
 
+<p align="center">
 Selamat datang di **Panduan Lengkap Cybersecurity & Privacy**!  
 Di era digital sekarang ini, keamanan data dan privasi jadi hal yang sangat penting. README ini akan membahas dasar-dasar cybersecurity, praktik terbaik, tools yang wajib kamu tahu, dan tips menjaga data pribadi tetap aman.
+</p>
+
 
 ---
 
-## 📌 Daftar Isi
-1. [Apa itu Cybersecurity?](#apa-itu-cybersecurity)  
-2. [Mengapa Privacy itu Penting?](#mengapa-privacy-itu-penting)  
-3. [Prinsip Dasar Cybersecurity](#prinsip-dasar-cybersecurity)  
-4. [Tools & Teknik Penting](#tools--teknik-penting)  
-5. [Tips Praktis Menjaga Privacy](#tips-praktis-menjaga-privacy)  
-6. [Sumber Belajar & Referensi](#sumber-belajar--referensi)
+## 🧭 Table of Contents
+
+- [Introduction](#introduction)
+- [Basic Concepts](#basic-concepts)
+- [Common Threats](#common-threats)
+- [Best Practices](#best-practices)
+- [Tools & Resources](#tools--resources)
+- [Legal & Ethical Guidelines](#legal--ethical-guidelines)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
 ## Apa itu Cybersecurity?
 
 Cybersecurity adalah praktik melindungi sistem komputer, jaringan, dan data dari serangan digital yang berbahaya. Tujuannya agar informasi tetap rahasia, utuh, dan tersedia saat dibutuhkan.
+
+---
+
+## 🛡️ Introduction
+
+Di era digital, ancaman terhadap privasi dan data pribadi semakin meningkat.  
+Panduan ini dirancang untuk membantu siapa saja — dari pemula hingga profesional — memahami konsep dasar dan praktik terbaik dalam keamanan siber dan privasi online.
 
 ---
 
