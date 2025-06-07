@@ -14,9 +14,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xka3UyNXNzY25zeDdia3E4dzk5dnVxcm1mOG83NDJvYmd0MmgwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RDZo7znAdn2u7sAcWH/giphy.gif" alt="Cybersecurity Gif" width="300"/>
 </p>
 
-<p align="center">
-Selamat datang di **Panduan Lengkap Cybersecurity & Privacy**!  
-Di era digital sekarang ini, keamanan data dan privasi jadi hal yang sangat penting. README ini akan membahas dasar-dasar cybersecurity, praktik terbaik, tools yang wajib kamu tahu, dan tips menjaga data pribadi tetap aman.
+<h1 align="center">
+Selamat datang di **Panduan Lengkap Cybersecurity & Privacy**!</h1>
+  
+<p align="center"> Di era digital sekarang ini, keamanan data dan privasi jadi hal yang sangat penting. README ini akan membahas dasar-dasar cybersecurity, praktik terbaik, tools yang wajib kamu tahu, dan tips menjaga data pribadi tetap aman.
 </p>
 
 
